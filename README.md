@@ -46,3 +46,4 @@ For full documentation on ShareX custom uploaders, please review their documenta
 
 ![ShareX configuration for a custom Cloudflare R2 Uploader](docs/sharex.png?raw=true)
 
+[//]: <> (Commit.)
